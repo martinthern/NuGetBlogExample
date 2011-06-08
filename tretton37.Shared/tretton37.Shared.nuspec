@@ -5,7 +5,7 @@
     <version>$version$</version>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>http://tretton37.com/</projectUrl>
+    <projectUrl>http://tretton37.com/blog</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <tags>tretton37 ninja blog</tags>
